@@ -1,0 +1,54 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+html {
+    background-color: #0A0A0A;
+    margin: 80px 100px 100px 100px;
+    font-family: 'Satoshi';
+    height: auto;
+}
+
+h1 {
+    color: var(--headings);
+}
+
+p {
+    color: var(--paragraph);
+}
+
+span {
+    font-family: 'Instrument Serif';
+    font-style: italic;
+    font-weight: 300;
+}
+
+button {
+    background-color: var(--ui); 
+    border: 2px solid var(--border);
+    border-radius: 12px;
+}
+
+/*scrollbar*/
+::-webkit-scrollbar {
+  width: 0;
+}
+::-webkit-scrollbar-track {
+  background: none;
+}
+::-webkit-scrollbar-thumb {
+  background: none;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: none;
+}
+
+/*color palette*/
+:root {
+  --background: #0A0A0A;
+  --headings: #F5F5F8;
+  --paragraph: #ABABAB;
+  --ui: #0D0D0D;
+  --border: rgba(255, 255, 255, 0.1);
+  --accent: #292929;
+}

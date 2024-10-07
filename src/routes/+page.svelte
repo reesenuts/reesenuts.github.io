@@ -1,2 +1,14 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    // @ts-nocheck
+    
+      import Contact from "./contact.svelte";
+      import About from "./about.svelte"
+      import Portfolio from "./portfolio.svelte"
+    
+    </script>
+    
+    <main class="landing" style="display: flex; flex-direction: column; gap: 40px;">
+        <Contact />
+        <About />
+        <Portfolio />
+    </main>
