@@ -26,10 +26,17 @@ span {
 }
 
 button {
-    background-color: var(--ui); 
-    border: 2px solid var(--border);
-    border-radius: 12px;
+  background-color: var(--ui); 
+  border: 2px solid var(--border);
+  border-radius: 16px;
+  position: relative;   
+  transition: box-shadow 0.2s ease; 
 }
+
+button:hover {
+  box-shadow: 0 0 0 2px var(--border), 0 0 0 4px rgba(255, 255, 255, 0); 
+}
+
 
 /*scrollbar*/
 ::-webkit-scrollbar {
@@ -53,4 +60,35 @@ button {
   --ui: #0D0D0D;
   --border: rgba(255, 255, 255, 0.1);
   --accent: #292929;
+}
+
+.hero {
+  height: 100vh; /* Full height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, var(--background), var(--accent));
+  padding: 20px;
+  border: 1px solid var(--border);
+  border-radius: 12px; 
+}
+
+.portfolio {
+  border: 1px solid var(--border);
+  border-radius: 48px;
+  height: 400px;
+  width: 50%;
+  background: linear-gradient(135deg, rgba(10, 10, 10, 0.8), rgba(41, 41, 41, 0.6)) transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  color: var(--headings);
+  position: relative; 
+}
+
+.portfolio h1:hover {
+  color: var(--accent);
+  cursor: pointer;
 }

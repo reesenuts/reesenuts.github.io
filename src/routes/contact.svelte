@@ -33,7 +33,7 @@ style="border:1px solid var(--border); border-radius: 48px; background-color: va
 
       <div class="contact">
         <div class="buttons"
-        style="display: flex; gap: 10px; align-items: center;">
+        style="display: flex; gap: 15px; align-items: center;">
         <!-- github logo -->
         <a href="https://github.com/reesenuts" target="_blank" style="text-decoration: none;">
           <button style="height: 50px; width: 50px; display: flex; justify-content: center; align-items: center;">
@@ -42,12 +42,10 @@ style="border:1px solid var(--border); border-radius: 48px; background-color: va
             </svg>
           </button>
         </a>
-        <!-- qr scanner logo -->
+        <!-- instagram logo -->
         <a href="https://www.instagram.com/reese.nuts/" target="_blank">
           <button style="height: 50px; width: 50px; display: flex; justify-content: center; align-items: center;">
-            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M17.5 13.3333H15C14.558 13.3333 14.134 13.5089 13.8215 13.8215C13.5089 14.134 13.3333 14.558 13.3333 15V17.5M17.5 17.5V17.5083M10 5.83333V8.33333C10 8.77536 9.8244 9.19928 9.51184 9.51184C9.19928 9.8244 8.77536 10 8.33333 10H5.83333M2.5 10H2.50833M10 2.5H10.0083M10 13.3333V13.3417M13.3333 10H14.1667M17.5 10V10.0083M10 17.5V16.6667M3.33333 2.5H5.83333C6.29357 2.5 6.66667 2.8731 6.66667 3.33333V5.83333C6.66667 6.29357 6.29357 6.66667 5.83333 6.66667H3.33333C2.8731 6.66667 2.5 6.29357 2.5 5.83333V3.33333C2.5 2.8731 2.8731 2.5 3.33333 2.5ZM14.1667 2.5H16.6667C17.1269 2.5 17.5 2.8731 17.5 3.33333V5.83333C17.5 6.29357 17.1269 6.66667 16.6667 6.66667H14.1667C13.7064 6.66667 13.3333 6.29357 13.3333 5.83333V3.33333C13.3333 2.8731 13.7064 2.5 14.1667 2.5ZM3.33333 13.3333H5.83333C6.29357 13.3333 6.66667 13.7064 6.66667 14.1667V16.6667C6.66667 17.1269 6.29357 17.5 5.83333 17.5H3.33333C2.8731 17.5 2.5 17.1269 2.5 16.6667V14.1667C2.5 13.7064 2.8731 13.3333 3.33333 13.3333Z" stroke="#F5F5F8" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#F5F5F8" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-instagram"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/></svg>
           </button>
         </a>
           <!-- get in touch button -->

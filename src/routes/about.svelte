@@ -39,7 +39,7 @@ style="border:1px solid var(--border); border-radius: 48px; background-color: va
 
 </div>
 
-<div class="skills" style="display: flex; justify-content: center; flex-direction: column; gap: 60px; margin-top: 50px; margin-bottom: 50px; ">
+<div class="skills" style="display: flex; justify-content: center; flex-direction: column; gap: 60px; margin-top: 50px; margin-bottom: 70px; ">
     <p style="text-align: center;">Worked with the best of the best</p>
 
     <div class="skill-icons" style="display: flex; gap: 120px; justify-content: center;">
