@@ -6,7 +6,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        satoshi: ['Satoshi', 'sans-serif'], 
+        dmSans: ['DM Sans', 'sans-serif'], 
         instrumentSerif: ['Instrument Serif', 'serif'],
       },
       colorPalette: {
