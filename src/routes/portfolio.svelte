@@ -33,7 +33,7 @@
     <div class="portfolio" style="border:1px solid var(--border); border-radius: 48px; background-color: var(--ui); height: 400px; width: 50%; display: flex; flex-direction: column; justify-content: space-between; align-item: center; text-align: center; gap: 10px;">
       <div style="margin-top: 110px;">
         <p style="font-size: small;">2022-2023</p>
-        <a href="/src/assets/advanced.calculator.jpg" target="_blank" style="text-decoration: none;">
+        <a href="./src/assets/advanced.calculator.jpg" target="_blank" style="text-decoration: none;">
         <h1 style="font-size: xx-large; font-weight: 600px;">advanced calculator</h1> </a>
         <p>Computer Programming 2</p>
       </div>
@@ -45,7 +45,7 @@
     <div class="portfolio" style="border:1px solid var(--border); border-radius: 48px; background-color: var(--ui); height: 400px; width: 50%; display: flex; flex-direction: column; justify-content: space-between; align-item: center; text-align: center; gap: 10px;">
       <div style="margin-top: 110px;">
         <p style="font-size: small;">2023-2024</p>
-        <a href="/src/assets/todolist.jpg" target="_blank" style="text-decoration: none;">
+        <a href="./src/assets/todolist.jpg" target="_blank" style="text-decoration: none;">
         <h1 style="font-size: xx-large; font-weight: 600px;">todo list</h1> </a>
         <p>Object-Oriented Programming</p>
       </div>
@@ -59,7 +59,7 @@
     <div class="portfolio" style="border:1px solid var(--border); border-radius: 48px; background-color: var(--ui); height: 400px; width: 50%; display: flex; flex-direction: column; justify-content: space-between; align-item: center; text-align: center; gap: 10px;">
       <div style="margin-top: 110px;">
         <p style="font-size: small;">2023-2024</p>
-        <a href="/src/assets/crowdpilot.jpg" target="_blank" style="text-decoration: none;">
+        <a href="./src/assets/crowdpilot.jpg" target="_blank" style="text-decoration: none;">
         <h1 style="font-size: xx-large; font-weight: 700px;">crowdpilot</h1> </a>
         <p>Application Development in Emerging Technologies</p>
       </div>
@@ -71,7 +71,7 @@
     <div class="portfolio" style="border:1px solid var(--border); border-radius: 48px; background-color: var(--ui); height: 400px; width: 50%; display: flex; flex-direction: column; justify-content: space-between; align-item: center; text-align: center; gap: 10px;">
       <div style="margin-top: 110px;">
         <p style="font-size: small;">2023-2024</p>
-        <a href="/src/assets/kanban.board.jpg" target="_blank" style="text-decoration: none;">
+        <a href="./src/assets/kanban.board.jpg" target="_blank" style="text-decoration: none;">
         <h1 style="font-size: xx-large; font-weight: 600px;">kanban board</h1> </a>
         <p>Application Development in Emerging Technologies</p>
       </div>
